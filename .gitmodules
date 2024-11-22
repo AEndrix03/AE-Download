@@ -1,0 +1,6 @@
+[submodule "ae-download-be"]
+	path = ae-download-be
+	url = https://github.com/AEndrix03/ae-download-be
+[submodule "ae-download-fe"]
+	path = ae-download-fe
+	url = https://github.com/AEndrix03/ae-download-fe
